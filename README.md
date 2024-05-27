@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎮 Currently studying Game Development and Web Design on IEK DELTA 360 in Greece!<br>👩🏻‍🎓 I am learning several programming languages, such as C++, C#, Java, Javascript and Python<br>👨‍🔧 In the works of a 3D Game in Unity engine and a small game for smartphones.<br>✍️ I have a BA and MA in theater studies!
 
-<img scr= "C:\Users\vensc\OneDrive\Έγγραφα\GitHub\picture">
+<img scr= "C:\Users\vensc\Downloads\computer-background-7iubl6hw6738leou.jpg">
 
 
 # 💻 Tech Stack:
